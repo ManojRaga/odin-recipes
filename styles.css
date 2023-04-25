@@ -1,0 +1,14 @@
+* {
+    background-color: blanchedalmond;
+}
+
+h1 {
+    font-size: 100px;
+    text-align: center;
+    background-color: black;
+    color: blanchedalmond;
+}
+
+#recipe-list {
+    font-size: 50px;   
+}
